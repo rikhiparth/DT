@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+.navbar
+{
+margin-bottom:0px;
+border-radius:0;
+background-color:#5E4485;
+padding: 2% 0%;
+border:4px;
+font-size:14px;
+}
+.navbar-brand
+{
+float : left;
+min-height:5px;
+padding:0 15px 5px;
+}
+form
+{
+background-color:#FFFFFF;
+margin:5% 5% 5% 5%;
+style="border:1px solid #ccc"
+}
